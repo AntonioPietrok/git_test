@@ -2,3 +2,5 @@ Hello Mother
 Hello Father 
 Here I am at
 Odin Project
+
+This is a test of the VS Code commit
